@@ -1,6 +1,7 @@
 # Face_Detection
 Face_Detection using Open CV, Haar Cascade Classifier in Python  
 
+
 Detecting persons face from camera within rectangle
 
 ![Screenshot (919)](https://user-images.githubusercontent.com/53929423/127288609-02fefdad-8758-4850-a653-92b6b2184202.png)
@@ -37,3 +38,8 @@ Detecting persons faces from videos
 
 *******************************************************************************************
 
+    https://www.pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and-deep-learning/
+
+    https://www.pyimagesearch.com/2018/09/24/opencv-face-recognition/
+
+    https://www.pyimagesearch.com/2018/06/11/how-to-build-a-custom-face-recognition-dataset/
