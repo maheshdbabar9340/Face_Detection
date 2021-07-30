@@ -43,3 +43,5 @@ https://www.pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and
 https://www.pyimagesearch.com/2018/09/24/opencv-face-recognition/
 
 https://www.pyimagesearch.com/2018/06/11/how-to-build-a-custom-face-recognition-dataset/
+
+https://www.youtube.com/watch?v=sz25xxF_AVE
