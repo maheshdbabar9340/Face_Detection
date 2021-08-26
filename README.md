@@ -6,6 +6,8 @@ https://www.pyimagesearch.com/2021/04/05/opencv-face-detection-with-haar-cascade
 
 https://opencv24-python-tutorials.readthedocs.io/en/latest/py_tutorials/py_objdetect/py_face_detection/py_face_detection.html
 
+https://www.geeksforgeeks.org/python-haar-cascades-for-object-detection/
+
 Detecting persons face from camera within rectangle
 
 ![Screenshot (919)](https://user-images.githubusercontent.com/53929423/127288609-02fefdad-8758-4850-a653-92b6b2184202.png)
